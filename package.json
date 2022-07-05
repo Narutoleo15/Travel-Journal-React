@@ -11,6 +11,13 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
+  "devDependencies": {
+    "webpack": "^2.0",
+    "babel-core": "^6.0",
+    "babel-loader": "^7.0",
+    "babel-preset-env": "*",
+    "babel-preset-react": "*"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
